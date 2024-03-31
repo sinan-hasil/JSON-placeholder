@@ -1,0 +1,30 @@
+body {
+  background-color: #D4F1F4;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+.container #row .btn1 {
+  margin-left: 450px;
+}
+.container #row h1 {
+  text-align: center;
+}
+.container #row h4 {
+  text-align: center;
+}
+.container #row .cards {
+  display: flex;
+}
+.container #row .cards ul {
+  list-style: none;
+  margin-bottom: 50px;
+}
+.container #row .cards ul li {
+  padding: 15px;
+}
+.container #row .cards ul li i {
+  color: blue;
+}/*# sourceMappingURL=style.css.map */

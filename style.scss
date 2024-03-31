@@ -1,0 +1,39 @@
+body{
+    background-color: #D4F1F4;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+
+    #row{
+        .btn1{
+            margin-left: 450px;
+        }
+
+        h1{
+            text-align: center;
+        }
+
+        h4{
+            text-align: center;
+        }
+
+        .cards{
+            display: flex;
+
+            ul{
+                list-style: none;
+                margin-bottom: 50px;
+                
+                li{
+                    padding: 15px;
+
+                   i{
+                    color: blue;
+                   }
+                }
+            }
+        }
+    }
+}
